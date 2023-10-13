@@ -1,0 +1,17 @@
+input{
+    width: 300px;
+    height: 30px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: wavy;
+}
+button{
+    color:white;
+    margin-top: 10px;
+    text-wrap: 10px;
+    padding: 7px;
+    border-radius: 10px;
+    border: 0px;
+    background-color: rgba(19, 62, 204, 0.903);
+}
